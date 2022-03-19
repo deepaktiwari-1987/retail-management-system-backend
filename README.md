@@ -43,7 +43,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Install
 
-    $ git clone https://github.com/YOUR_USERNAME/PROJECT_TITLE
+    $ git clone https://github.com/deepaktiwari-1987/retail-management-system-backend.git
     $ cd PROJECT_TITLE
     $ npm install
 
@@ -59,6 +59,10 @@ You just need to restore database into mongo db database to start working on thi
 - Create database using comming "use retail-management". For this application database name is "retail-management". if you want to create different database then you can create any and can go in config.js file and replace the database name with the name of database which you have created
 - exit from mongo termial
 - import database in mongodb. mongorestore -d <CREATED_DATABASE_NAME> <PATH_OF_DATABASE_DUMP_FOLDER>
+
+## Sample Login Credentails
+
+deepak@gmail.com/1234
 
 ## Running the project
 
